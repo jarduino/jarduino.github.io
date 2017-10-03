@@ -157,6 +157,12 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar .navbar-brand {
+  text-transform: none;
+  background: url('./img/logo.png') no-repeat top left;
+  padding-left: 75px;
+}
+
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
